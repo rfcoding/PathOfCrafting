@@ -21,7 +21,7 @@ So far the list of features are:
 (TODO)
 
 ## Report bugs
-We know that there are probably a few bugs floating around in the app and we do our best to fix them. If you notice anything strange please create an issue in this repository so that we can track and discuss it here. 
+We know that there are probably a few bugs floating around in the app and we do our best to fix them. If you notice anything strange please [create an issue in this repository](https://github.com/rfcoding/PathOfCrafting/issues) so that we can track and discuss it here. 
 
 ## Support
 If you would like to support the developers of this app, here is a link to our [Patreon](https://www.patreon.com/PathOfCrafting)
