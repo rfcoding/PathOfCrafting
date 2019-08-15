@@ -17,7 +17,7 @@ So far the list of features are:
 * Meta crafting
 * Beast crafting
 
-## Most recent patch notes
+## 1.1 patch notes
 
 ### Features
 * Added Beast Crafting
