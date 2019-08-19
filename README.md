@@ -3,7 +3,9 @@ This repository contains information about the mobile app Path of Crafting which
 The app is created and maintained by two developers who are completely independent from GGG and Path of Exile. 
 
 ## Download links
-Path of Crafting is available to download for [Android](https://play.google.com/store/apps/details?id=com.fpet.poe_clicker) and iOS (TODO)  
+[Download Android](https://play.google.com/store/apps/details?id=com.fpet.poe_clicker)
+
+[Download iOS](https://apps.apple.com/us/app/path-of-crafting/id1476862820?l=sv&ls=1)
 
 ## App features
 Path of Crafting aims to be an accurate and comprehensive crafting simulator for Path of Exile. 
