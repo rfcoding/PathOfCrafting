@@ -46,4 +46,4 @@ So far the list of features are:
 We know that there are probably a few bugs floating around in the app and we do our best to fix them. If you notice anything strange please [create an issue in this repository](https://github.com/rfcoding/PathOfCrafting/issues) so that we can track and discuss it here. 
 
 ## Support
-If you would like to support the developers of this app, here is a link to our [Patreon](https://www.patreon.com/PathOfCrafting)
+If you would like to support the developers of this app, here is a link to our [Patreon](https://www.patreon.com/PathOfCrafting) and [PayPal](https://paypal.me/PathOfCrafting)
